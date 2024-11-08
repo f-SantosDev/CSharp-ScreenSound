@@ -1,0 +1,14 @@
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\bin\Debug\net8.0\CSharp.ScreenSound.exe
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\bin\Debug\net8.0\CSharp.ScreenSound.deps.json
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\bin\Debug\net8.0\CSharp.ScreenSound.runtimeconfig.json
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\bin\Debug\net8.0\CSharp.ScreenSound.dll
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\bin\Debug\net8.0\CSharp.ScreenSound.pdb
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\CSharp.ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\CSharp.ScreenSound.AssemblyInfoInputs.cache
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\CSharp.ScreenSound.AssemblyInfo.cs
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\CSharp.ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\CSharp.ScreenSound.dll
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\refint\CSharp.ScreenSound.dll
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\CSharp.ScreenSound.pdb
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\CSharp.ScreenSound.genruntimeconfig.cache
+C:\Users\eu_mo\OneDrive\Área de Trabalho\Alura - C#\Screen Sound\CSharp.ScreenSound\obj\Debug\net8.0\ref\CSharp.ScreenSound.dll
